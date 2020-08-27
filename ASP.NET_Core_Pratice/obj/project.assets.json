@@ -8885,19 +8885,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\narco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudioProject\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice.csproj",
+      "projectUniqueName": "C:\\Users\\narco\\source\\repos\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice.csproj",
       "projectName": "ASP.NET_Core_Pratice",
-      "projectPath": "D:\\VisualStudioProject\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudioProject\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice\\obj\\",
+      "projectPath": "C:\\Users\\narco\\source\\repos\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice.csproj",
+      "packagesPath": "C:\\Users\\narco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\narco\\source\\repos\\ASP.NET_Core_Pratice\\ASP.NET_Core_Pratice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\narco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8962,7 +8962,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
